@@ -5,3 +5,5 @@ This is CS50, Harvard University’s introduction to the intellectual enterprise
 [scratch.mit.edu/projects/990379862](https://scratch.mit.edu/projects/990379862)
 
 In this camera sensor game, something will happen when you reach 5 points by catching the cat for +1 point. Dodge predators like the dino-bird and the lion to avoid losing -2 and -5 points!
+
+<iframe src="https://scratch.mit.edu/projects/990379862/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
