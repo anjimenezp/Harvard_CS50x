@@ -1,5 +1,4 @@
-# Harvard - CS50x 2024 
-# Week 0 - Scratch
+# Harvard - CS50x 2024 - Week 0 - Scratch
 This is CS50, Harvard University’s introduction to the intellectual enterprises of computer science and the art of programming.
 
 ## Week 0 - Scratch
